@@ -1,0 +1,52 @@
+.header{
+	height: 110px;
+	background-color: purple;
+}
+
+.container{
+	overflow: hidden;
+}
+
+.box1{
+	height: 200px;
+}
+.vlog{
+	background-color: aqua;
+	width: 60%;
+	float: left;
+}
+.contact{
+	background-color: deeppink;
+	width: 40%;
+	float: right;
+}
+
+.box2{
+	height: 150px;
+	width: 33.33%;
+	float: left;
+}
+.red{
+	background-color: skyblue;
+}
+.yellow{
+	background-color: yellowgreen;
+}
+.green{
+	background-color: goldenrod;
+}
+
+.footer{
+	height: 120px;
+	background-color: black;
+}
+
+.map iframe{
+	width: 100%;
+	height: 300px;
+}
+
+.video iframe{
+	width: 560;
+	height: 315;
+}
